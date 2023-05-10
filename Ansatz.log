@@ -1,0 +1,97 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.28)  10 MAY 2023 13:26
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/Anwender/Documents/trading/Ansatz.tex
+(c:/Users/Anwender/Documents/trading/Ansatz.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2022-12-17> (C:\Users\Anwender\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(C:\Users\Anwender\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (C:\Users\Anwender\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+) (C:\Users\Anwender\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\enitkv@toks@=\toks18
+\labelindent=\skip50
+\enit@outerparindent=\dimen141
+\enit@toks=\toks19
+\enit@inbox=\box51
+\enit@count@id=\count193
+\enitdp@description=\count194
+) (C:\Users\Anwender\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count195
+\l__pdf_internal_box=\box52
+) (Ansatz.aux)
+\openout1 = `Ansatz.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 11.
+
+Overfull \hbox (7.87556pt too wide) in paragraph at lines 15--16
+[]\OT1/cmr/m/n/10 Datenbeschaffung: His-torische Gold-preis-daten von einer verl^^?asslichen Quelle
+ []
+
+
+Overfull \hbox (9.04224pt too wide) in paragraph at lines 17--18
+[]\OT1/cmr/m/n/10 Berechnung tech-nis-cher In-dika-toren: Glei-t-ende Durch-schnitte (SMA, EMA),
+ []
+
+
+Overfull \hbox (9.2229pt too wide) in paragraph at lines 22--23
+[]\OT1/cmr/m/n/10 Vorhersage und Eval-u-a-tion: Aus-gew^^?ahltes Mod-ell ver-wen-den, um zuk^^?unftige
+ []
+
+[1
+
+{C:/Users/Anwender/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (Ansatz.aux) ) 
+Here is how much of TeX's memory you used:
+ 826 strings out of 476406
+ 15502 string characters out of 2788150
+ 1853787 words of memory out of 3000000
+ 21248 multiletter control sequences out of 15000+600000
+ 515657 words of font info for 43 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 34i,5n,38p,262b,195s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\Anwender\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Anwender/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Anwender/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on Ansatz.pdf (1 page, 37406 bytes).
+PDF statistics:
+ 21 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
